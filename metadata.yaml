@@ -1,16 +1,21 @@
 _repo: Pictorial-Beauty-on-the-Screen_66049
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Ingram, Rex
     gutenberg_agent_id: '53616'
     url: http://www.gutenberg.org/2009/agents/53616
+covers:
+- cover_type: archival
+  image_path: 66049-h/images/cover.jpg
 creator:
   author:
     agent_name: Freeburg, Victor Oscar
     gutenberg_agent_id: '53615'
     url: http://www.gutenberg.org/2009/agents/53615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66049#Pictorial-Beauty-on-the-Screen
 gutenberg_issued: '2021-08-12'
 gutenberg_type: Text
 identifiers:
