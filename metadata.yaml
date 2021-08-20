@@ -1,0 +1,25 @@
+_repo: Pictorial-Beauty-on-the-Screen_66049
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Ingram, Rex
+    gutenberg_agent_id: '53616'
+    url: http://www.gutenberg.org/2009/agents/53616
+creator:
+  author:
+    agent_name: Freeburg, Victor Oscar
+    gutenberg_agent_id: '53615'
+    url: http://www.gutenberg.org/2009/agents/53615
+description: ''
+gutenberg_issued: '2021-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '66049'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pictorial Beauty on the Screen
+url: http://www.gutenberg.org/ebooks/66049
